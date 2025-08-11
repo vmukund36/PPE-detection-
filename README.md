@@ -1,5 +1,5 @@
 # PPE Detection
-Detect Personal Protective Equipment (PPE) on industrial workers using YOLOv8. The model identifies and localizes four classes: Person, Helmet, Gloves, and Shoes.
+Detect Personal Protective Equipment (PPE) on industrial workers using YOLOv8. The model identifies and localizes 9 classes mentioned below. The dataset used is a custom sourced dataset which was used for training the YOLOv8 model using Roboflow api. The link for the steps to train a custom YOLOv8 model using roboflow: https://blog.roboflow.com/how-to-train-yolov8-on-a-custom-dataset/
 
 ## Classes
 0. withHelmet
